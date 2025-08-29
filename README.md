@@ -216,7 +216,7 @@ Thanks to all our amazing contributors! 🎉
 
 **⭐ Star this repo** • **🍴 Fork it** • **📢 Share it** • **🤝 Contribute**
 
-**Made by [Md Emran Hossan Ashiq](https://github.com/emhash)**
+**Made by [Md Emran Hossan Ashiq](http://md-emran-h-ashiq.vercel.app)**
 
 ---
 
